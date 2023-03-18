@@ -2,7 +2,7 @@
 
 Hello !
 
-You can find in this repository projects I have been working on.
+You can find in this repository, projects I have been working on.
 
 For the data projects, you can find a link to the presentation of each projects at the beginning of the notebook.
 
