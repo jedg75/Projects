@@ -10,4 +10,4 @@ You can also find it here:
 
 [Project : Anticipate building energy consumption](https://docs.google.com/presentation/d/1OFDVz5BU7CKdbmVaWFwMxT5u_4BurZoN_LgyrZNbMAc/edit?usp=sharing)
 
-
+[Project : Clustering e-commerce customers](https://docs.google.com/presentation/d/1IJ3htMfe7Ks34KiZl_3iZ52nXF59oHtB_A38BntY6PM/edit?usp=sharing)
