@@ -13,3 +13,6 @@ You can also find it here:
 [Project : Clustering e-commerce website customers](https://docs.google.com/presentation/d/1IJ3htMfe7Ks34KiZl_3iZ52nXF59oHtB_A38BntY6PM/edit?usp=sharing)
 
 [Project : Automate product classification](https://docs.google.com/presentation/d/1TCFFW03ZJZaeU88HXEeBYSkU19dpQJUd7AsnmOTi2K8/edit?usp=sharing)
+
+[Project : Model deployment in the Cloud]
+(https://docs.google.com/presentation/d/1qWBxta1_aGsXhI4qatkODA4zdZ3gJ7K7XKPResbZ2b4/edit?usp=sharing)
