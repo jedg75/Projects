@@ -14,5 +14,4 @@ You can also find it here:
 
 [Project : Automate product classification](https://docs.google.com/presentation/d/1TCFFW03ZJZaeU88HXEeBYSkU19dpQJUd7AsnmOTi2K8/edit?usp=sharing)
 
-[Project : Model deployment in the Cloud]
-(https://docs.google.com/presentation/d/1qWBxta1_aGsXhI4qatkODA4zdZ3gJ7K7XKPResbZ2b4/edit?usp=sharing)
+[Project : Model deployment in the Cloud](https://docs.google.com/presentation/d/1qWBxta1_aGsXhI4qatkODA4zdZ3gJ7K7XKPResbZ2b4/edit?usp=sharing)
