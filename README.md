@@ -5,7 +5,7 @@ Hello !
 You can find:
 
 - in the LLM repository: various POC/trials with LLM.
-- For the data projects, you can find a link to the presentation of each projects at the beginning of the notebook.
+- For the data analytics and ML projects, you can find a link to the presentation of each projects at the beginning of the notebook.
 
 You can also find it here:
 
