@@ -2,9 +2,10 @@
 
 Hello !
 
-You can find in this repository, some projects I have worked on.
+You can find:
 
-For the data projects, you can find a link to the presentation of each projects at the beginning of the notebook.
+- in the LLM repository: various POC/trials with LLM.
+- For the data projects, you can find a link to the presentation of each projects at the beginning of the notebook.
 
 You can also find it here:
 
